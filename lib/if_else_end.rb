@@ -1,6 +1,6 @@
 # Write your solution here
 
 current_time = Time.now.to_i
-odd = (current_time % 2) == 
+even = (current_time % 2) == 0
 
-if odd == 
+p even
